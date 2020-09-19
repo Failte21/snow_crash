@@ -1,0 +1,19 @@
+# inspect home
+ll
+
+# find files owned by flag00
+find / -user flag00 2>/dev/null
+
+# inspect file
+cat /usr/sbin/john
+cdiiddwpgswtgt
+
+# try as password
+su flag00
+su: Authentication failure
+
+# decode the cipher on dcode.fr
+nottoohardhere
+
+# run getflag
+getflag
