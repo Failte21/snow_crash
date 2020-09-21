@@ -1,0 +1,14 @@
+# list level03 home
+
+# an executable file owned by flag03 exists: level03, we run it
+
+# Using ltrace, we find out that the program set the effective user id using setresuid()
+# and then call echo using the system() function.
+
+# We create a script echo that runs getflag() in /tmp and make it executable
+
+# We change the path so that our fake echo will be called first
+
+# We run ./level03 and get the token
+
+
